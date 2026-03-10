@@ -10,7 +10,6 @@
 
 執行此 Jupyter Notebook (`Hsr_Timetable-Scraper.ipynb`) 前，請確保已安裝以下 Python 模組：
 
-bash
 pip install requests
 
 ## 參數設定指南 (Payload Configuration)
