@@ -1,5 +1,3 @@
-# hsr-timetable-scraper
-
 一個基於 Python 的自動化工具，繞過傳統網頁視覺介面，直接透過 HTTP POST 請求與台灣高鐵後台 API 對接，精準萃取並解析 JSON 格式的時刻表資料。
 
 ## 核心特色 (Core Features)
