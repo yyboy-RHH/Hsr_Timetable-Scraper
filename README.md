@@ -13,9 +13,6 @@
 bash
 pip install requests
 
-
-> **工程師筆記**：腳本中雖有引入 `BeautifulSoup`，但因本專案採用直接解析 JSON API 的作法，實際上無需進行 HTML 解析。未來重構時建議將其移除，以維持程式碼整潔與執行效率。
-
 ## 參數設定指南 (Payload Configuration)
 
 要自訂查詢條件，請直接修改腳本中的 `payload` 字典檔。以下為關鍵參數說明：
